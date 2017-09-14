@@ -359,11 +359,14 @@ margin-top: 20px;
 .android-template-01 {
     pos-x:-35px;
     left: -110px;
+    top: 60px;
 }
 
 .disp {
 
-    left: 70px;
+left: 80px;
+
+top: -285px;
 }
 .somos-un-moderno-ser {
     height: 51px;
@@ -374,8 +377,10 @@ margin-top: 20px;
     line-height: 17px;
     text-align: center;
     position: relative;
-    top: 110px;
+    top: 70px;
 }
+
+.somos-un-moderno-ser {}
 
 
 .maskVid {
@@ -425,6 +430,8 @@ margin-top: 20px;
 
 top: -40px;
 
+width: 95%;
+
 /* width: 100%; */
 
 position: relative;
@@ -432,7 +439,7 @@ position: relative;
 
 .y-con-tu-apoyo-avanz {
 	font-size:12px;
-
+	width: 90%;
 }
 .durante-nuestro-lanz {
 	font-size:12px;
@@ -455,6 +462,27 @@ position: relative;
 
 .clinica-veterinaria {
 	margin-left:30px
+}
+
+
+.page-1 {
+ width: 150;
+ background-repeat: no-repeat;
+ background-position-x: center;
+ background-size: contain;
+ top: 40px;
+}
+
+.rectangle-2 {
+	height:750px
+}
+
+.icn-arrow-point-to-right {
+	top: -160;
+	height: 30px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position-x: center;
 }
 }
 @font-face {
