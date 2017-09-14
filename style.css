@@ -331,6 +331,7 @@ margin-top: 20px;
 .mapap {
     width: 768px;
     text-align: left;
+    max-width: 100%;
     /* top: -100px; */
     margin-top: -100px;
 }
@@ -347,7 +348,108 @@ margin-top: 20px;
   }
 
 
-.durante-nuestro-lanz {height: 32px;width: 736px;color: #3E3E3E;font-family: Gotham;font-size: 14px;line-height: 17px;top: 120px;position: relative;}
+.durante-nuestro-lanz {height: 32px;width: 706px;color: #3E3E3E;font-family: Gotham;font-size: 14px;line-height: 17px;top: 120px;position: relative;}
 
 .rectangle-7 {height: 174px;width: 100%;background-color: #601F2E;/* top: -150px; */position: relative;}
-.clinica-veterinaria {height: 112px;width: 850px;color: #F2F2F2;font-family: Gotham;font-size: 14px;line-height: 28px;text-align: left;position: relative;top: 30px;}
+.clinica-veterinaria {height: 112px;width: 850px;color: #F2F2F2;font-family: Gotham;font-size: 14px;line-height: 28px;text-align: left;position: relative;top: 30px;margin-left: 30px;}
+
+
+@media only screen and (max-width:767px) {
+
+.android-template-01 {
+    pos-x:-35px;
+    left: -110px;
+}
+
+.disp {
+
+    left: 70px;
+}
+.somos-un-moderno-ser {
+    height: 51px;
+    width: 250px;
+    color: #3E3E3E;
+    font-family: "Gotham";
+    font-size: 16px;
+    line-height: 17px;
+    text-align: center;
+    position: relative;
+    top: 110px;
+}
+
+
+.maskVid {
+    /* height: 56%; */
+    width: 90%;
+    height: unset;
+    /* position: relative; */
+    /* padding-top: 56.25%; */
+    padding-bottom: 56.25%;
+    /* width: 1vw; */
+    top: -250px;
+}
+
+.rectangle {
+    height: 451px;
+}
+
+.red {
+	height: 470px;
+}
+
+.paso {
+    height: 250px;
+}
+
+.urge-nvetapp-posee-un {
+	font-size:12px;
+	line-height:14px;
+
+}
+
+.y-la-factura-a-pagar {
+	font-size:12px;
+	line-height:14px;
+
+}
+
+.bitmap {
+	width:100%;
+	height: unset;
+	/* width: 425px; */
+	background-size: contain;
+	padding-bottom: 47.45%;
+}
+
+.mapap {
+
+/* width: 100%; */
+}
+
+.y-con-tu-apoyo-avanz {
+	font-size:12px;
+
+}
+.durante-nuestro-lanz {
+	font-size:12px;
+	width:100%
+}
+
+.logo-anii {
+	margin-left:10px
+}
+
+.urgentvetapp-es-un-p {
+	width:100%;
+	font-size:12px;
+
+}
+
+.rectangle-5 {
+	height:550px
+}
+
+.clinica-veterinaria {
+	margin-left:30px
+}
+}
