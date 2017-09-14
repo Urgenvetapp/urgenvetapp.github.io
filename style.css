@@ -1,0 +1,353 @@
+body {
+    margin: 0px;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    /* overflow-y: hidden; */
+    max-height: 3040px;
+    height: 100%;
+    background-color: #F2F2F2;
+
+}
+
+.todo {
+  margin-left: auto;
+  margin-right: auto;
+    max-width: 1024px;
+}
+
+.rectangle-8 {
+  height: 9px;	width: 100%;	background-color: #BC152E;
+  top:0px;
+  left: 0px;
+  position: relative;
+}
+.rectangle-2 {
+
+  height: 823px;	width: 100%;		background-color: #F2F2F2;
+}
+
+.page-1 {
+  height: 66px;
+  width: 200px;
+  background: url("Images/logo-URGENvetapp guia de uso-06.png");
+  position: relative;
+  top: 66px;
+
+}
+
+
+.somos-un-moderno-ser {
+  	height: 51px;
+    width: 420px;
+    color: #3E3E3E;
+    font-family: "Gotham";
+    font-size: 18px;
+    line-height: 17px;
+    text-align: center;
+    position: relative;
+    top:122px;
+  }
+
+.android-template-01 {
+
+height: 438px;
+
+width: 273px;
+
+background: url("Images/celular.png");
+
+position: relative;
+
+top: 123px;
+
+left: -182px;
+
+background-repeat: no-repeat;
+
+z-index: 5;
+
+background-position-x: center;
+
+background-position-y: center;
+}
+
+.fill-1 {
+  height: 45.81px;
+  width: 139.86px;
+  top:13px;
+  position: relative;
+  background: url("Images/google play.png");
+  text-align: left;
+
+}
+
+.disponible-en {
+  height: 16px;
+  width: 106px;
+  color: #3E3E3E;
+  font-family: Gotham;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: left;
+}
+
+.disp{
+  height: auto;
+  width: 140px;
+   left:180px ;
+   position: relative;
+   top:-206px;
+  text-align: left;
+}
+
+.muy-pronto-disponibl {
+  height: 32px;
+  width: 104px;
+  color: #3E3E3E;
+  font-family: Gotham;
+  font-size: 14px;
+  line-height: 17px;
+  display: block;
+  top: 23px;
+  position: relative;
+}
+
+.fill-2 {
+  height: 46px;
+  width: 140px;
+  opacity: 0.5;
+  background: url("Images/app store.png");
+  position:relative;
+  top:33px
+}
+
+.rectangle {
+  height: 721px;
+  width: 150%;
+  left: -30%;
+  top: 90px;
+  z-index: 2;
+  position: relative;
+  background: linear-gradient(155deg, #E81A2E 0%, #E1192E 15.12%, #E1192E 16.33%, #BC152E 100%);
+  -ms-transform: rotate(-7deg); /* IE 9 */
+  -webkit-transform: rotate(-7deg); /* Safari */
+  transform: rotate(-4deg);
+}
+
+.icn-arrow-point-to-right {
+  height: 44px;
+  width: 32px;
+  top: -80px;
+  position: relative;
+  /* background-color: black; */
+  background: url("Images/icn-arrow-point-to-right.png");
+  z-index: 6;
+}
+
+.maskVid {
+  height: 401px;
+  width: 714px;
+  position: relative;
+  top: -500px;
+  background-color: #D8D8D8;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+  z-index: 6;
+}
+
+.red {top: -320px;overflow-y: hidden;position: relative;width: 100%;max-width: 100%;height: 680px;overflow-x: hidden;}
+
+.como-usar {height: 22px;width: 194px;color: #3E3E3E;font-family: "Gotham";font-size: 24px;letter-spacing: 1px;line-height: 24px;top: 106px;position: relative;text-align: center;}
+.white {
+    position: relative;
+    top: -320px;
+    height: auto;
+    background-color: white;
+    /* bottom: -320px; */
+    padding-bottom: 200px;
+    /* height: 800px; */
+    display: block;
+}
+
+.line {
+  box-sizing: border-box;
+  height: 1px;
+  width: 144px;
+  border: 2px solid #601F2E;
+  top: 131px;
+  position: relative;
+}
+
+.paso{
+  width: 275px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 40px;
+  /* display: flex; */
+  height: 270px;
+}
+
+.pasoicon{
+	height: 112px;
+	width: 172px;
+	display: block;
+	background-position-x: center;
+	/* background-position-x: center; */
+	background: url("Images/Oval.png");
+	/* background-position-y: center; */
+	/* background-repeat: no-repeat; */
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: center;
+	position: relative;
+}
+
+.download {
+  background: url("Images/icn/download.png");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.descarga-la-app-y-es {
+
+height: 60px;
+
+width: 275px;
+
+color: #3E3E3E;
+
+font-family: Gotham;
+
+font-size: 17px;
+
+line-height: 18px;
+
+text-align: center;
+
+margin-top: 20px;
+}
+
+.pasos {
+  position:relative;
+  top: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* width: auto; */
+  /* width: 500px; */
+  max-width: 1024px;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.urge-nvetapp-posee-un {/* height: 48px; *//* width: 297px; */color: #9B9B9B;font-family: Gotham;font-size: 14px;line-height: 17px;text-align: center;}
+
+
+.y-la-factura-a-pagar {height: 32px;width: 236px;color: #9B9B9B;font-family: Gotham;font-size: 14px;line-height: 17px;text-align: center;}
+
+
+
+.register {
+  background: url("Images/icn/register.png");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.urgencia {
+  background: url("Images/icn/urgencia.png");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: relative;
+  top: 30px;
+}
+
+.veterinarian {
+  background: url("Images/icn/veterinarian.png");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+
+.cirugia {
+  background: url("Images/icn/cirugia.png");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+
+.invoice {
+  background: url("Images/icn/invoice.png");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+
+.rectangle-5 {height: 712px;/* width: 100%; */position: relative;background-color: #F2F2F2;margin: 0px;width: 100%;/* margin-top: -100px; *//* top: -210px; */margin-top: -300px;}
+
+.urgentvetapp-es-un-p {height: 16px;width: 372px;color: #3E3E3E;font-family: Gotham;font-size: 14px;line-height: 17px;top: 44px;position: relative;}
+
+.logo-anii {
+  height: 37px;
+  width: 129px;
+  background: url("Images/logo anii.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  position: relative;
+  top: 68px;
+}
+
+.y-con-tu-apoyo-avanz {height: 48px;width: 501px;color: #3E3E3E;font-family: Gotham;font-size: 14px;line-height: 17px;position: relative;top: 93px;}
+
+.mapap {
+    width: 768px;
+    text-align: left;
+    /* top: -100px; */
+    margin-top: -100px;
+}
+
+.bitmap {
+  height: 373px;
+  width: 786px;
+  background: url("Images/Bitmap.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  top: 100px;
+  background-position-y: center;
+  position: relative;
+  }
+
+
+.durante-nuestro-lanz {height: 32px;width: 736px;color: #3E3E3E;font-family: Gotham;font-size: 14px;line-height: 17px;top: 120px;position: relative;}
+
+.rectangle-7 {height: 174px;width: 100%;background-color: #601F2E;/* top: -150px; */position: relative;}
+.clinica-veterinaria {height: 112px;width: 850px;color: #F2F2F2;font-family: Gotham;font-size: 14px;line-height: 28px;text-align: left;position: relative;top: 30px;}
