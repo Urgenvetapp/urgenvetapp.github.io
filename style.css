@@ -423,7 +423,11 @@ margin-top: 20px;
 
 .mapap {
 
+top: -40px;
+
 /* width: 100%; */
+
+position: relative;
 }
 
 .y-con-tu-apoyo-avanz {
@@ -446,10 +450,26 @@ margin-top: 20px;
 }
 
 .rectangle-5 {
-	height:550px
+	height: 450px;
 }
 
 .clinica-veterinaria {
 	margin-left:30px
 }
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url("font/GOTHAM-MEDIUM.TTF") /* TTF file for CSS3 browsers */
+    font-weight:normal;
+}
+
+
+@font-face {
+    font-family: "GothamBold";
+    src: url("font/GOTHAM-BOLD.TTF") /* TTF file for CSS3 browsers */
+}
+
+.cbold {
+  font-family: "GothamBold";
 }
