@@ -43,7 +43,7 @@ html, body {
   	height: 51px;
     width: 420px;
     color: #3E3E3E;
-    font-family: "Gotham1";
+    font-family: "UrgenFont";
     font-size: 18px;
     line-height: 17px;
     text-align: center;
@@ -88,7 +88,7 @@ background-position-y: center;
   height: 16px;
   width: 106px;
   color: #3E3E3E;
-  font-family: Gotham1;
+  font-family: UrgenFont;
   font-size: 14px;
   line-height: 17px;
   text-align: left;
@@ -107,7 +107,7 @@ background-position-y: center;
   height: 32px;
   width: 104px;
   color: #3E3E3E;
-  font-family: Gotham1;
+  font-family: UrgenFont;
   font-size: 14px;
   line-height: 17px;
   display: block;
@@ -159,7 +159,7 @@ background-position-y: center;
 
 .red {top: -320px;overflow-y: hidden;position: relative;width: 100%;max-width: 100%;height: 680px;overflow-x: hidden;}
 
-.como-usar {height: 22px;width: 194px;color: #3E3E3E;font-family: "Gotham1";font-size: 24px;letter-spacing: 1px;line-height: 24px;top: 106px;position: relative;text-align: center;}
+.como-usar {height: 22px;width: 194px;color: #3E3E3E;font-family: "UrgenFont";font-size: 24px;letter-spacing: 1px;line-height: 24px;top: 106px;position: relative;text-align: center;}
 .white {
     position: relative;
     top: -320px;
@@ -221,7 +221,7 @@ width: 275px;
 
 color: #3E3E3E;
 
-font-family: Gotham1;
+font-family: UrgenFont;
 
 font-size: 17px;
 
@@ -254,10 +254,10 @@ margin-top: 20px;
 }
 
 
-.urge-nvetapp-posee-un {/* height: 48px; *//* width: 297px; */color: #9B9B9B;font-family: Gotham1;font-size: 14px;line-height: 17px;text-align: center;}
+.urge-nvetapp-posee-un {/* height: 48px; *//* width: 297px; */color: #9B9B9B;font-family: UrgenFont;font-size: 14px;line-height: 17px;text-align: center;}
 
 
-.y-la-factura-a-pagar {height: 32px;width: 236px;color: #9B9B9B;font-family: Gotham1;font-size: 14px;line-height: 17px;text-align: center;}
+.y-la-factura-a-pagar {height: 32px;width: 236px;color: #9B9B9B;font-family: UrgenFont;font-size: 14px;line-height: 17px;text-align: center;}
 
 
 
@@ -313,7 +313,7 @@ margin-top: 20px;
 
 .rectangle-5 {height: 712px;/* width: 100%; */position: relative;background-color: #F2F2F2;margin: 0px;width: 100%;/* margin-top: -100px; *//* top: -210px; */margin-top: -300px;}
 
-.urgentvetapp-es-un-p {height: 16px;width: 372px;color: #3E3E3E;font-family: Gotham1;font-size: 14px;line-height: 17px;top: 44px;position: relative;}
+.urgentvetapp-es-un-p {height: 16px;width: 372px;color: #3E3E3E;font-family: UrgenFont;font-size: 14px;line-height: 17px;top: 44px;position: relative;}
 
 .logo-anii {
   height: 37px;
@@ -326,7 +326,7 @@ margin-top: 20px;
   top: 68px;
 }
 
-.y-con-tu-apoyo-avanz {height: 48px;width: 501px;color: #3E3E3E;font-family: Gotham1;font-size: 14px;line-height: 17px;position: relative;top: 93px;}
+.y-con-tu-apoyo-avanz {height: 48px;width: 501px;color: #3E3E3E;font-family: UrgenFont;font-size: 14px;line-height: 17px;position: relative;top: 93px;}
 
 .mapap {
     width: 768px;
@@ -348,10 +348,10 @@ margin-top: 20px;
   }
 
 
-.durante-nuestro-lanz {height: 32px;width: 706px;color: #3E3E3E;font-family: Gotham1;font-size: 14px;line-height: 17px;top: 120px;position: relative;}
+.durante-nuestro-lanz {height: 32px;width: 706px;color: #3E3E3E;font-family: UrgenFont;font-size: 14px;line-height: 17px;top: 120px;position: relative;}
 
 .rectangle-7 {height: 174px;width: 100%;background-color: #601F2E;/* top: -150px; */position: relative;}
-.clinica-veterinaria {height: 112px;width: 850px;color: #F2F2F2;font-family: Gotham1;font-size: 14px;line-height: 28px;text-align: left;position: relative;top: 30px;margin-left: 30px;}
+.clinica-veterinaria {height: 112px;width: 850px;color: #F2F2F2;font-family: UrgenFont;font-size: 14px;line-height: 28px;text-align: left;position: relative;top: 30px;margin-left: 30px;}
 
 
 @media only screen and (max-width:767px) {
@@ -369,7 +369,7 @@ margin-top: 20px;
     height: 51px;
     width: 250px;
     color: #3E3E3E;
-    font-family: "Gotham1";
+    font-family: "UrgenFont";
     font-size: 16px;
     line-height: 17px;
     text-align: center;
@@ -462,9 +462,9 @@ position: relative;
     src: url("font/GOTHAM-BOLD.TTF") /* TTF file for CSS3 browsers */
 }
 @font-face {
-    font-family: "Gotham1";
+    font-family: "UrgenFont";
     src: url("font/GOTHAM-MEDIUM.TTF") /* TTF file for CSS3 browsers */
-    
+
 }
 
 
