@@ -356,6 +356,14 @@ margin-top: 20px;
 
 @media only screen and (max-width:767px) {
 
+
+  iframe.videoYoutube {
+      max-width: 100%;
+      position: relative;
+      height: 56%!important;
+      /* min-height: 100% !important; */
+  }
+
 .android-template-01 {
     pos-x:-35px;
     left: -110px;
@@ -389,17 +397,17 @@ top: -285px;
     height: unset;
     /* position: relative; */
     /* padding-top: 56.25%; */
-    padding-bottom: 56.25%;
+    /* padding-bottom: 56.25%; */
     /* width: 1vw; */
-    top: -250px;
+    top: -290px;
 }
 
 .rectangle {
-    height: 451px;
+    height: 481px;
 }
 
 .red {
-	height: 470px;
+	height: 550px;
 }
 
 .paso {
